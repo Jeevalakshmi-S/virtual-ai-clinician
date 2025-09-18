@@ -37,3 +37,9 @@ Target Users
 * Pharmacies → Walk-in advisory kiosks
 * Insurance Companies → Preliminary claims triage
 * Health Startups → Chatbot-based care delivery
+
+To run this project:
+ git clone
+ cd filename
+ npm install
+ npm run dev
