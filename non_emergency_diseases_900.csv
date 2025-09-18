@@ -1,0 +1,921 @@
+disease_name,symptoms_list,severity,age_group,triage_level
+Tinea Corporis (Ringworm),"dryness, scaling, circular rash, itching",mild,adult,self-care
+Otitis Externa,"hearing loss, joint stiffness, itchy ear canal, ear pain, irritation",mild,adult,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,elderly,consult doctor
+Seasonal Influenza (Mild),"dryness, fatigue, sore throat, cough",moderate,child,self-care
+Tinea Corporis (Ringworm),"red patches, dry cough, scaling, itching, circular rash",mild,child,consult doctor
+Seasonal Influenza (Mild),"fatigue, cough, runny nose, sore throat, fever",moderate,adult,self-care
+Gastritis (Non-Erosive),"dry cough, nausea, sneezing, bloating, upper abdominal pain",moderate,elderly,self-care
+Otitis Externa,"discharge, ear pain, itchy ear canal, itchy skin",moderate,elderly,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration",mild,elderly,self-care
+Mild GERD,"chest discomfort, heartburn, acid reflux, irritation",moderate,child,consult doctor
+Acne Vulgaris,"dry cough, pimples, blackheads, whiteheads, dryness, oily skin",mild,adolescent,self-care
+Mild GERD,"fatigue, heartburn, acid reflux, chest discomfort, sore throat",mild,child,self-care
+Tinea Corporis (Ringworm),"circular rash, red patches, itching",moderate,child,self-care
+Tension Headache,"neck stiffness, scalp tenderness, fatigue, headache",mild,adolescent,self-care
+Plantar Fasciitis,"pain with walking, heel pain, foot stiffness, tenderness",mild,child,self-care
+Eczema,"rash, dry skin, red patches, itchy skin",mild,elderly,self-care
+Dandruff,"flaky skin, itchy scalp, scalp dryness, redness",moderate,adolescent,consult doctor
+Eczema,"dry skin, fatigue, itchy skin, rash, red patches",mild,adolescent,consult doctor
+Tension Headache,"poor appetite, fatigue, neck stiffness, itchy skin, headache",mild,adult,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, upper abdominal pain",mild,adolescent,consult doctor
+Mild Depression,"poor concentration, low mood, fatigue, dryness, loss of interest, joint stiffness",mild,elderly,self-care
+Mild GERD,"chest discomfort, heartburn, acid reflux",moderate,adolescent,consult doctor
+Tinea Corporis (Ringworm),"red patches, scaling, sneezing, itching, circular rash",mild,child,consult doctor
+Acne Vulgaris,"blackheads, pimples, oily skin",moderate,child,consult doctor
+Gastritis (Non-Erosive),"nausea, indigestion, upper abdominal pain, mild fever",mild,child,consult doctor
+Dandruff,"itchy scalp, irritation, flaky skin, redness",mild,adolescent,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal",mild,adolescent,consult doctor
+Allergic Rhinitis,"itchy eyes, poor appetite, nasal congestion, sneezing, joint stiffness",moderate,elderly,consult doctor
+Eczema,"dry skin, fatigue, itchy skin, rash, red patches",moderate,adolescent,self-care
+Irritable Bowel Syndrome,"abdominal pain, mild fever, diarrhea, bloating, constipation",mild,child,self-care
+Mild GERD,"chest discomfort, heartburn, sore throat",moderate,adolescent,self-care
+Conjunctivitis (Viral),"red eyes, itchy skin, itching, mild discharge, watery eyes",mild,child,self-care
+Mild GERD,"dry cough, heartburn, acid reflux, chest discomfort, sore throat, joint stiffness",mild,elderly,self-care
+Seasonal Influenza (Mild),"fatigue, sore throat, runny nose, cough, fever",moderate,adolescent,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, fatigue, oily skin",mild,elderly,self-care
+Acne Vulgaris,"blackheads, pimples, oily skin",moderate,adult,consult doctor
+Eczema,"rash, dry skin, red patches, itchy skin",mild,adult,self-care
+Constipation,"bloating, hard stools, infrequent stools, poor appetite",moderate,elderly,self-care
+Acne Vulgaris,"muscle tension, mild fever, pimples, blackheads, whiteheads, oily skin",mild,child,consult doctor
+Eczema,"dry skin, mild fever, itchy skin, rash, dryness, red patches",mild,child,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, itching, mild discharge",moderate,adolescent,self-care
+Plantar Fasciitis,"pain with walking, sneezing, heel pain, foot stiffness, tenderness",mild,adult,self-care
+Mild GERD,"dry cough, heartburn, acid reflux, chest discomfort, sore throat, irritation",moderate,elderly,self-care
+Plantar Fasciitis,"poor appetite, pain with walking, heel pain, foot stiffness, tenderness",mild,adolescent,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, mild discharge, itching",mild,adolescent,consult doctor
+Eczema,"dry skin, dry cough, rash, dryness, red patches",moderate,child,self-care
+Dandruff,"itchy scalp, flaky skin, scalp dryness, redness",moderate,child,consult doctor
+Plantar Fasciitis,"heel pain, foot stiffness, tenderness",mild,child,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, oily skin",mild,child,consult doctor
+Allergic Rhinitis,"itchy eyes, nasal congestion, itchy skin, sneezing, runny nose",mild,adolescent,self-care
+Conjunctivitis (Viral),"red eyes, mild fever, itching, mild discharge, watery eyes",mild,child,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, dry cough, constipation",mild,adolescent,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion",mild,adolescent,consult doctor
+Constipation,"poor appetite, abdominal discomfort, hard stools, infrequent stools, bloating",moderate,child,consult doctor
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion, runny nose",moderate,child,consult doctor
+Eczema,"rash, red patches, itchy skin",moderate,adult,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",moderate,child,consult doctor
+Dandruff,"flaky skin, mild fever, poor appetite, scalp dryness, itchy scalp, redness",moderate,elderly,consult doctor
+Tension Headache,"scalp tenderness, dry cough, fatigue, headache, joint stiffness",moderate,adolescent,self-care
+Tinea Corporis (Ringworm),"red patches, scaling, itchy skin, sneezing, itching, circular rash",mild,adolescent,consult doctor
+Otitis Externa,"discharge, hearing loss, ear pain, itchy ear canal",moderate,elderly,consult doctor
+Tension Headache,"neck stiffness, scalp tenderness, fatigue, headache",moderate,child,self-care
+Plantar Fasciitis,"heel pain, foot stiffness, tenderness",moderate,child,self-care
+Seasonal Influenza (Mild),"fatigue, fever, runny nose, cough",mild,adult,consult doctor
+Otitis Externa,"hearing loss, ear pain, itchy ear canal",moderate,adult,consult doctor
+Conjunctivitis (Viral),"joint stiffness, red eyes, mild discharge, itching",mild,adolescent,consult doctor
+Irritable Bowel Syndrome,"bloating, muscle tension, abdominal pain, constipation",mild,adolescent,consult doctor
+Gastritis (Non-Erosive),"dry cough, nausea, sneezing, bloating, upper abdominal pain",moderate,child,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, poor appetite, diarrhea, bloating, constipation",moderate,elderly,self-care
+Dandruff,"dry cough, joint stiffness, flaky skin, scalp dryness, itchy scalp, redness",moderate,adult,consult doctor
+Mild GERD,"sneezing, dryness, heartburn, chest discomfort, sore throat",mild,elderly,consult doctor
+Seasonal Influenza (Mild),"dry cough, fatigue, sore throat, runny nose, cough, fever",moderate,child,self-care
+Plantar Fasciitis,"pain with walking, sneezing, heel pain, foot stiffness, tenderness",mild,adult,consult doctor
+Mild Depression,"loss of interest, fatigue, low mood",mild,adult,self-care
+Irritable Bowel Syndrome,"abdominal pain, fatigue, diarrhea, bloating, constipation",moderate,elderly,consult doctor
+Eczema,"rash, dry skin, red patches",mild,adult,consult doctor
+Eczema,"dry skin, muscle tension, fatigue, itchy skin, rash, red patches",moderate,adolescent,self-care
+Mild GERD,"fatigue, chest discomfort, heartburn, sore throat",moderate,elderly,self-care
+Plantar Fasciitis,"pain with walking, foot stiffness, tenderness",mild,elderly,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",mild,child,self-care
+Tension Headache,"scalp tenderness, muscle tension, fatigue, neck stiffness, headache",moderate,adolescent,consult doctor
+Gastritis (Non-Erosive),"indigestion, bloating, upper abdominal pain",mild,adult,self-care
+Acne Vulgaris,"whiteheads, blackheads, pimples, oily skin",mild,child,consult doctor
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, upper abdominal pain",mild,adolescent,consult doctor
+Conjunctivitis (Viral),"red eyes, poor appetite, fatigue, itching, watery eyes",mild,elderly,self-care
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, headache, irritation",moderate,adult,self-care
+Eczema,"dry skin, itchy skin, rash, sneezing, red patches, joint stiffness",moderate,adult,self-care
+Irritable Bowel Syndrome,"abdominal pain, fatigue, diarrhea, constipation, joint stiffness",moderate,adult,self-care
+Allergic Rhinitis,"itchy eyes, muscle tension, nasal congestion, sneezing, runny nose, joint stiffness",mild,adolescent,self-care
+Acne Vulgaris,"itchy skin, blackheads, pimples, oily skin",moderate,child,consult doctor
+Conjunctivitis (Viral),"red eyes, mild discharge, sneezing, itching, watery eyes",mild,adolescent,consult doctor
+Constipation,"mild fever, hard stools, abdominal discomfort, itchy skin, infrequent stools",mild,child,consult doctor
+Seasonal Influenza (Mild),"mild fever, fatigue, runny nose, sore throat, irritation",moderate,adolescent,consult doctor
+Dandruff,"irritation, itchy scalp, redness, scalp dryness",moderate,child,self-care
+Plantar Fasciitis,"foot stiffness, muscle tension, heel pain, pain with walking",moderate,child,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, joint stiffness",moderate,elderly,self-care
+Plantar Fasciitis,"dryness, heel pain, pain with walking, tenderness",mild,elderly,self-care
+Allergic Rhinitis,"itchy eyes, muscle tension, nasal congestion, itchy skin, sneezing, runny nose",moderate,elderly,consult doctor
+Gastritis (Non-Erosive),"nausea, dryness, bloating, upper abdominal pain",mild,elderly,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,elderly,consult doctor
+Tension Headache,"headache, scalp tenderness, fatigue, neck stiffness",mild,adolescent,self-care
+Tension Headache,"neck stiffness, fatigue, headache",mild,adolescent,self-care
+Dandruff,"itchy scalp, flaky skin, scalp dryness",mild,child,self-care
+Seasonal Influenza (Mild),"poor appetite, fatigue, itchy skin, runny nose, fever",moderate,elderly,consult doctor
+Acne Vulgaris,"dry cough, pimples, poor appetite, blackheads, whiteheads",mild,child,consult doctor
+Seasonal Influenza (Mild),"fatigue, itchy skin, runny nose, cough, fever, irritation",moderate,adult,self-care
+Constipation,"hard stools, infrequent stools, abdominal discomfort, itchy skin",mild,adolescent,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,child,consult doctor
+Plantar Fasciitis,"pain with walking, dryness, heel pain, foot stiffness, tenderness",moderate,elderly,self-care
+Mild Depression,"poor concentration, poor appetite, low mood, fatigue, dryness",moderate,child,self-care
+Allergic Rhinitis,"itchy eyes, nasal congestion, fatigue, sneezing, runny nose, irritation",mild,elderly,consult doctor
+Acne Vulgaris,"mild fever, pimples, blackheads, whiteheads, dryness, oily skin",moderate,adolescent,consult doctor
+Eczema,"rash, red patches, itchy skin",moderate,adolescent,consult doctor
+Gastritis (Non-Erosive),"itchy skin, nausea, dryness, indigestion, bloating, upper abdominal pain",mild,elderly,consult doctor
+Mild GERD,"poor appetite, sneezing, heartburn, acid reflux, sore throat",moderate,elderly,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, upper abdominal pain",mild,adolescent,consult doctor
+Tinea Corporis (Ringworm),"circular rash, scaling, red patches, itching",moderate,child,self-care
+Mild GERD,"itchy skin, heartburn, acid reflux, chest discomfort, sore throat",moderate,child,consult doctor
+Conjunctivitis (Viral),"red eyes, fatigue, itching, mild discharge, watery eyes",moderate,adolescent,self-care
+Acne Vulgaris,"whiteheads, blackheads, pimples",moderate,adult,self-care
+Tension Headache,"headache, fatigue, mild fever, neck stiffness",moderate,adult,consult doctor
+Tinea Corporis (Ringworm),"scaling, fatigue, itching, circular rash, joint stiffness",moderate,child,consult doctor
+Eczema,"rash, red patches, itchy skin",moderate,elderly,self-care
+Dandruff,"flaky skin, itchy scalp, redness",moderate,elderly,consult doctor
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion, runny nose",mild,adult,consult doctor
+Allergic Rhinitis,"sneezing, nasal congestion, runny nose",moderate,elderly,self-care
+Acne Vulgaris,"mild fever, pimples, blackheads, oily skin, joint stiffness",moderate,child,self-care
+Mild GERD,"chest discomfort, heartburn, acid reflux, sore throat",mild,elderly,self-care
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking",mild,adult,self-care
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking, tenderness",mild,elderly,self-care
+Mild GERD,"fatigue, heartburn, acid reflux, chest discomfort, sore throat",mild,adult,consult doctor
+Dandruff,"flaky skin, dryness, scalp dryness, itchy scalp, redness",mild,elderly,consult doctor
+Tension Headache,"scalp tenderness, dry cough, fatigue, neck stiffness, itchy skin, headache",mild,elderly,self-care
+Mild GERD,"heartburn, acid reflux, chest discomfort, sore throat, joint stiffness",mild,adolescent,consult doctor
+Mild GERD,"fatigue, heartburn, acid reflux, chest discomfort, sore throat",mild,adult,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, mild fever, poor appetite, diarrhea, bloating",moderate,elderly,self-care
+Dandruff,"flaky skin, itchy skin, scalp dryness, itchy scalp, redness",mild,adult,self-care
+Mild Depression,"sneezing, loss of interest, fatigue, poor concentration",mild,adult,consult doctor
+Allergic Rhinitis,"itchy eyes, muscle tension, nasal congestion, sneezing, runny nose",moderate,adult,self-care
+Mild Depression,"poor concentration, mild fever, low mood, fatigue, itchy skin, loss of interest",moderate,adult,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",mild,child,self-care
+Conjunctivitis (Viral),"red eyes, fatigue, itching, mild discharge, watery eyes",moderate,elderly,self-care
+Constipation,"dryness, abdominal discomfort, hard stools, infrequent stools",moderate,adolescent,consult doctor
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking, tenderness",mild,adolescent,consult doctor
+Tinea Corporis (Ringworm),"mild fever, scaling, itching, circular rash, red patches",mild,adult,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, dryness",moderate,child,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, sneezing, bloating, constipation, irritation",moderate,child,consult doctor
+Dandruff,"flaky skin, itchy scalp, scalp dryness, redness",moderate,adult,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain",moderate,adult,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, runny nose",mild,adult,self-care
+Seasonal Influenza (Mild),"fatigue, runny nose, cough, fever, sore throat",moderate,adult,self-care
+Allergic Rhinitis,"itchy eyes, muscle tension, nasal congestion, sneezing, runny nose",mild,child,consult doctor
+Gastritis (Non-Erosive),"fatigue, nausea, indigestion, bloating, upper abdominal pain",mild,adolescent,consult doctor
+Otitis Externa,"discharge, hearing loss, fatigue, itchy ear canal, dryness, ear pain",moderate,adolescent,self-care
+Allergic Rhinitis,"itchy eyes, nasal congestion, sneezing, runny nose, joint stiffness",mild,adolescent,self-care
+Constipation,"hard stools, abdominal discomfort, infrequent stools, bloating, joint stiffness",moderate,adolescent,consult doctor
+Tension Headache,"scalp tenderness, mild fever, fatigue, neck stiffness, sneezing, headache",mild,adolescent,self-care
+Irritable Bowel Syndrome,"abdominal pain, mild fever, poor appetite, diarrhea, bloating, constipation",mild,adult,self-care
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion, runny nose",mild,elderly,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, joint stiffness, itching",moderate,adult,consult doctor
+Mild Depression,"sneezing, loss of interest, fatigue, low mood",moderate,child,self-care
+Plantar Fasciitis,"heel pain, pain with walking, tenderness",mild,elderly,consult doctor
+Mild Depression,"fatigue, poor concentration, mild fever, low mood",mild,child,consult doctor
+Acne Vulgaris,"mild fever, pimples, itchy skin, whiteheads, oily skin",mild,adolescent,consult doctor
+Dandruff,"itchy scalp, redness, scalp dryness",moderate,child,consult doctor
+Dandruff,"dry cough, itchy scalp, redness, scalp dryness",mild,elderly,self-care
+Otitis Externa,"discharge, hearing loss, muscle tension, itchy ear canal, dryness, ear pain",mild,child,consult doctor
+Otitis Externa,"hearing loss, itchy ear canal, ear pain, itchy skin",mild,child,consult doctor
+Gastritis (Non-Erosive),"nausea, indigestion, fatigue, upper abdominal pain",mild,child,self-care
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, headache, irritation",mild,adolescent,self-care
+Constipation,"fatigue, hard stools, bloating, infrequent stools",moderate,adult,self-care
+Dandruff,"flaky skin, dryness, itchy scalp, redness",mild,child,self-care
+Dandruff,"itchy scalp, flaky skin, scalp dryness",moderate,adolescent,self-care
+Plantar Fasciitis,"pain with walking, joint stiffness, foot stiffness, tenderness",mild,child,self-care
+Mild Depression,"loss of interest, joint stiffness, poor concentration, low mood",mild,elderly,consult doctor
+Eczema,"rash, dryness, red patches, itchy skin",mild,elderly,consult doctor
+Conjunctivitis (Viral),"red eyes, itching, watery eyes, mild discharge",mild,child,self-care
+Gastritis (Non-Erosive),"fatigue, indigestion, bloating, upper abdominal pain",moderate,child,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, upper abdominal pain",moderate,child,consult doctor
+Eczema,"dry skin, rash, itchy skin",mild,elderly,consult doctor
+Allergic Rhinitis,"nasal congestion, itchy eyes, runny nose, poor appetite",moderate,child,consult doctor
+Seasonal Influenza (Mild),"mild fever, fatigue, sore throat, runny nose, cough, fever",moderate,adult,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, constipation",moderate,adolescent,self-care
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",moderate,adolescent,self-care
+Plantar Fasciitis,"heel pain, foot stiffness, tenderness",mild,adult,self-care
+Irritable Bowel Syndrome,"abdominal pain, itchy skin, diarrhea, constipation, joint stiffness",moderate,adult,self-care
+Acne Vulgaris,"pimples, poor appetite, whiteheads, dryness, oily skin",mild,adolescent,consult doctor
+Tinea Corporis (Ringworm),"circular rash, red patches, itching",moderate,adolescent,self-care
+Dandruff,"flaky skin, itchy skin, scalp dryness, itchy scalp, redness",mild,adolescent,self-care
+Irritable Bowel Syndrome,"diarrhea, abdominal pain, constipation",mild,adult,consult doctor
+Eczema,"rash, dry skin, muscle tension, red patches",moderate,adult,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",moderate,adolescent,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",moderate,adolescent,consult doctor
+Tension Headache,"scalp tenderness, fatigue, mild fever, neck stiffness",mild,adult,consult doctor
+Otitis Externa,"discharge, itchy ear canal, sneezing, ear pain, joint stiffness",moderate,elderly,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, fatigue, diarrhea, bloating, constipation",mild,adolescent,consult doctor
+Mild GERD,"acid reflux, sore throat, heartburn",moderate,child,consult doctor
+Constipation,"bloating, hard stools, infrequent stools",moderate,adult,consult doctor
+Seasonal Influenza (Mild),"muscle tension, fatigue, cough, runny nose, sore throat, fever, irritation",mild,child,self-care
+Otitis Externa,"discharge, hearing loss, itchy ear canal",mild,child,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",mild,adult,consult doctor
+Dandruff,"fatigue, flaky skin, scalp dryness, redness",moderate,child,self-care
+Conjunctivitis (Viral),"red eyes, poor appetite, itchy skin, itching, watery eyes",moderate,adolescent,self-care
+Tinea Corporis (Ringworm),"red patches, scaling, itching, circular rash, joint stiffness",moderate,adolescent,self-care
+Conjunctivitis (Viral),"red eyes, mild fever, mild discharge, watery eyes, joint stiffness",mild,elderly,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",mild,elderly,self-care
+Dandruff,"flaky skin, muscle tension, itchy scalp, redness",mild,child,consult doctor
+Allergic Rhinitis,"itchy eyes, nasal congestion, itchy skin, sneezing, runny nose",mild,elderly,self-care
+Tinea Corporis (Ringworm),"dryness, scaling, circular rash, itching",moderate,adult,self-care
+Otitis Externa,"discharge, hearing loss, muscle tension, itchy ear canal, ear pain, irritation",moderate,adolescent,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",moderate,adolescent,self-care
+Tinea Corporis (Ringworm),"scaling, irritation, circular rash, itching",moderate,adolescent,self-care
+Seasonal Influenza (Mild),"fever, cough, runny nose, sore throat",moderate,elderly,self-care
+Tinea Corporis (Ringworm),"circular rash, dryness, scaling, red patches",moderate,child,self-care
+Plantar Fasciitis,"heel pain, pain with walking, tenderness",moderate,child,self-care
+Eczema,"sneezing, rash, red patches, itchy skin",mild,elderly,consult doctor
+Tinea Corporis (Ringworm),"red patches, muscle tension, scaling, itching, circular rash",moderate,adolescent,self-care
+Seasonal Influenza (Mild),"mild fever, fatigue, itchy skin, cough, fever",mild,adult,consult doctor
+Tension Headache,"scalp tenderness, poor appetite, fatigue, neck stiffness, headache, joint stiffness",mild,elderly,self-care
+Plantar Fasciitis,"pain with walking, heel pain, foot stiffness, tenderness",moderate,adolescent,self-care
+Plantar Fasciitis,"muscle tension, fatigue, pain with walking, heel pain, foot stiffness",mild,adolescent,self-care
+Conjunctivitis (Viral),"red eyes, itchy skin, itching, mild discharge, watery eyes, joint stiffness",mild,child,self-care
+Seasonal Influenza (Mild),"poor appetite, fatigue, runny nose, cough, sore throat, fever",mild,elderly,consult doctor
+Eczema,"rash, dry skin, mild fever, red patches",moderate,adult,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, dry cough, upper abdominal pain",moderate,adult,self-care
+Acne Vulgaris,"dry cough, pimples, poor appetite, blackheads, whiteheads, oily skin",mild,adult,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal, ear pain",mild,child,consult doctor
+Tension Headache,"scalp tenderness, dry cough, muscle tension, fatigue, neck stiffness, headache",mild,child,self-care
+Irritable Bowel Syndrome,"abdominal pain, poor appetite, diarrhea, dryness, bloating",moderate,elderly,consult doctor
+Allergic Rhinitis,"itchy eyes, muscle tension, nasal congestion, sneezing, runny nose",mild,child,self-care
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, dryness, headache",moderate,elderly,consult doctor
+Seasonal Influenza (Mild),"poor appetite, fatigue, runny nose, sore throat, cough, fever, joint stiffness",moderate,adolescent,self-care
+Otitis Externa,"discharge, hearing loss, ear pain, itchy ear canal",mild,child,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration",moderate,adult,consult doctor
+Allergic Rhinitis,"muscle tension, poor appetite, nasal congestion, sneezing, runny nose",moderate,adult,consult doctor
+Conjunctivitis (Viral),"red eyes, dry cough, itching, mild discharge, watery eyes",moderate,adolescent,consult doctor
+Tinea Corporis (Ringworm),"red patches, mild fever, scaling, itching, circular rash",mild,elderly,self-care
+Mild Depression,"poor concentration, poor appetite, low mood, fatigue, loss of interest",moderate,adolescent,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, itching",moderate,adolescent,consult doctor
+Seasonal Influenza (Mild),"fatigue, sore throat, runny nose",mild,adult,consult doctor
+Acne Vulgaris,"poor appetite, blackheads, whiteheads, oily skin, irritation",moderate,adolescent,self-care
+Plantar Fasciitis,"fatigue, pain with walking, heel pain, foot stiffness, tenderness",moderate,elderly,self-care
+Irritable Bowel Syndrome,"dry cough, abdominal pain, fatigue, diarrhea, bloating, constipation",moderate,child,consult doctor
+Gastritis (Non-Erosive),"nausea, dryness, bloating, indigestion",moderate,adult,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, upper abdominal pain",mild,child,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal, itchy skin, dryness, ear pain",moderate,child,self-care
+Tension Headache,"neck stiffness, scalp tenderness, headache",mild,adolescent,self-care
+Plantar Fasciitis,"irritation, tenderness, pain with walking, heel pain, foot stiffness, joint stiffness",moderate,elderly,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",mild,adult,consult doctor
+Gastritis (Non-Erosive),"nausea, dryness, indigestion, bloating, upper abdominal pain, irritation",mild,child,self-care
+Tinea Corporis (Ringworm),"muscle tension, scaling, itching, circular rash, red patches, joint stiffness",moderate,adult,consult doctor
+Seasonal Influenza (Mild),"runny nose, fatigue, sore throat, cough",moderate,child,self-care
+Acne Vulgaris,"pimples, blackheads, whiteheads, oily skin, joint stiffness",moderate,elderly,self-care
+Acne Vulgaris,"whiteheads, blackheads, oily skin",mild,adult,self-care
+Seasonal Influenza (Mild),"fever, fatigue, cough, sore throat",moderate,elderly,consult doctor
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, headache, irritation",moderate,elderly,consult doctor
+Mild GERD,"fatigue, sneezing, heartburn, acid reflux, sore throat",moderate,child,self-care
+Tinea Corporis (Ringworm),"scaling, red patches, itching",moderate,adult,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",moderate,child,self-care
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, headache, joint stiffness",mild,adolescent,self-care
+Tension Headache,"headache, scalp tenderness, neck stiffness",mild,adult,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, upper abdominal pain",mild,adolescent,self-care
+Irritable Bowel Syndrome,"abdominal pain, muscle tension, poor appetite, diarrhea, bloating, constipation",moderate,child,consult doctor
+Plantar Fasciitis,"pain with walking, heel pain, foot stiffness, tenderness",mild,adolescent,consult doctor
+Constipation,"abdominal discomfort, bloating, hard stools, infrequent stools",moderate,elderly,self-care
+Seasonal Influenza (Mild),"runny nose, sore throat, cough",mild,adolescent,consult doctor
+Conjunctivitis (Viral),"red eyes, sneezing, dryness, mild discharge, watery eyes",mild,adult,self-care
+Tinea Corporis (Ringworm),"muscle tension, scaling, itchy skin, itching, circular rash, red patches",mild,elderly,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",moderate,adult,self-care
+Otitis Externa,"discharge, hearing loss, itchy ear canal, itchy skin, ear pain",mild,adolescent,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, dryness",mild,adolescent,consult doctor
+Seasonal Influenza (Mild),"fatigue, runny nose, cough, sore throat, fever",mild,child,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes",moderate,elderly,self-care
+Constipation,"bloating, hard stools, infrequent stools, mild fever",mild,adolescent,consult doctor
+Acne Vulgaris,"dry cough, pimples, blackheads, whiteheads, oily skin",mild,adolescent,self-care
+Tinea Corporis (Ringworm),"circular rash, scaling, red patches, itching",moderate,adolescent,self-care
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion, runny nose",moderate,adult,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",moderate,adult,consult doctor
+Conjunctivitis (Viral),"dryness, itching, mild discharge, watery eyes, joint stiffness",mild,adult,consult doctor
+Allergic Rhinitis,"itchy eyes, dry cough, sneezing, runny nose, joint stiffness",moderate,adolescent,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, itching, mild discharge",moderate,elderly,self-care
+Irritable Bowel Syndrome,"sneezing, diarrhea, bloating, constipation",mild,adult,self-care
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion, runny nose",mild,child,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion",mild,adult,consult doctor
+Seasonal Influenza (Mild),"poor appetite, fatigue, dryness, cough, sore throat",mild,elderly,self-care
+Conjunctivitis (Viral),"red eyes, mild fever, sneezing, mild discharge, watery eyes",moderate,elderly,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",mild,child,self-care
+Constipation,"dry cough, hard stools, sneezing, infrequent stools, bloating",mild,adolescent,self-care
+Acne Vulgaris,"dry cough, pimples, blackheads, whiteheads, joint stiffness",mild,elderly,consult doctor
+Otitis Externa,"discharge, hearing loss, dry cough, itchy ear canal, itchy skin, ear pain",moderate,adult,self-care
+Eczema,"dry skin, itchy skin, sneezing, rash, red patches",moderate,elderly,consult doctor
+Seasonal Influenza (Mild),"poor appetite, fatigue, runny nose, cough, sore throat",moderate,adult,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, upper abdominal pain",mild,elderly,self-care
+Tension Headache,"headache, scalp tenderness, dry cough, neck stiffness",mild,adult,self-care
+Gastritis (Non-Erosive),"dry cough, nausea, dryness, indigestion, bloating, upper abdominal pain",mild,elderly,consult doctor
+Tension Headache,"scalp tenderness, dry cough, fatigue, neck stiffness, headache, irritation",mild,child,self-care
+Tinea Corporis (Ringworm),"red patches, mild fever, scaling, dryness, itching, circular rash",mild,adult,self-care
+Dandruff,"flaky skin, itchy scalp, scalp dryness",mild,child,consult doctor
+Constipation,"hard stools, abdominal discomfort, infrequent stools",mild,child,consult doctor
+Otitis Externa,"discharge, hearing loss, mild fever, dryness, ear pain",mild,elderly,consult doctor
+Otitis Externa,"discharge, hearing loss, ear pain, itchy ear canal",mild,adolescent,consult doctor
+Constipation,"dry cough, hard stools, abdominal discomfort, itchy skin, bloating",moderate,child,consult doctor
+Tension Headache,"scalp tenderness, dry cough, fatigue, neck stiffness, headache",mild,child,self-care
+Tension Headache,"headache, scalp tenderness, neck stiffness",mild,adult,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, muscle tension, mild discharge",moderate,elderly,self-care
+Constipation,"mild fever, hard stools, abdominal discomfort, sneezing, bloating",mild,adult,self-care
+Mild GERD,"chest discomfort, sore throat, dry cough, acid reflux",moderate,child,consult doctor
+Gastritis (Non-Erosive),"muscle tension, nausea, sneezing, indigestion, bloating, upper abdominal pain",mild,adolescent,consult doctor
+Eczema,"dry skin, dry cough, itchy skin, rash, red patches, joint stiffness",mild,adult,consult doctor
+Seasonal Influenza (Mild),"runny nose, fatigue, cough, sore throat",moderate,elderly,self-care
+Mild GERD,"muscle tension, heartburn, acid reflux, chest discomfort, sore throat",mild,elderly,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",mild,elderly,consult doctor
+Constipation,"fatigue, hard stools, abdominal discomfort, infrequent stools, bloating",mild,adolescent,consult doctor
+Acne Vulgaris,"irritation, pimples, blackheads, whiteheads, oily skin, joint stiffness",moderate,child,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, constipation",mild,elderly,self-care
+Mild Depression,"sneezing, loss of interest, poor concentration, low mood",moderate,child,consult doctor
+Eczema,"dry skin, fatigue, itchy skin, rash, red patches, joint stiffness",mild,adolescent,self-care
+Otitis Externa,"discharge, itchy ear canal, ear pain, itchy skin",mild,elderly,consult doctor
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking",mild,elderly,consult doctor
+Tinea Corporis (Ringworm),"red patches, scaling, circular rash",moderate,elderly,consult doctor
+Acne Vulgaris,"dry cough, pimples, blackheads, whiteheads, oily skin",moderate,adolescent,consult doctor
+Otitis Externa,"discharge, hearing loss, dry cough, mild fever, itchy ear canal, ear pain",moderate,adolescent,consult doctor
+Tinea Corporis (Ringworm),"red patches, scaling, circular rash, joint stiffness",mild,child,self-care
+Irritable Bowel Syndrome,"muscle tension, abdominal pain, diarrhea, bloating, constipation",moderate,adult,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal, sneezing, ear pain",mild,child,consult doctor
+Tinea Corporis (Ringworm),"red patches, scaling, sneezing, itching, circular rash",mild,adolescent,self-care
+Gastritis (Non-Erosive),"muscle tension, fatigue, indigestion, bloating, upper abdominal pain",mild,adult,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, diarrhea, dryness, bloating, constipation",mild,elderly,consult doctor
+Tension Headache,"headache, scalp tenderness, mild fever, neck stiffness",moderate,child,self-care
+Irritable Bowel Syndrome,"abdominal pain, mild fever, diarrhea, dryness, bloating, constipation",mild,adolescent,consult doctor
+Tension Headache,"neck stiffness, fatigue, headache",mild,elderly,consult doctor
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, dryness, headache, joint stiffness",moderate,adolescent,self-care
+Gastritis (Non-Erosive),"dry cough, nausea, indigestion, bloating, upper abdominal pain, joint stiffness",moderate,child,consult doctor
+Conjunctivitis (Viral),"red eyes, mild fever, mild discharge, itching, watery eyes",mild,adult,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, fatigue",moderate,adolescent,consult doctor
+Constipation,"hard stools, abdominal discomfort, infrequent stools, itchy skin",moderate,child,consult doctor
+Acne Vulgaris,"pimples, blackheads, fatigue, whiteheads, oily skin",mild,child,consult doctor
+Seasonal Influenza (Mild),"fever, fatigue, runny nose, sore throat",mild,elderly,self-care
+Plantar Fasciitis,"pain with walking, heel pain, foot stiffness, mild fever",moderate,adolescent,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration",mild,adult,consult doctor
+Tension Headache,"neck stiffness, scalp tenderness, fatigue, headache",moderate,adult,self-care
+Tinea Corporis (Ringworm),"red patches, dry cough, scaling, dryness, itching, circular rash",moderate,elderly,consult doctor
+Seasonal Influenza (Mild),"muscle tension, dryness, sore throat, runny nose, cough, fever",moderate,adolescent,consult doctor
+Gastritis (Non-Erosive),"sneezing, bloating, indigestion, upper abdominal pain",moderate,elderly,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,adult,consult doctor
+Seasonal Influenza (Mild),"fatigue, runny nose, cough, sore throat, fever",mild,elderly,consult doctor
+Tinea Corporis (Ringworm),"red patches, scaling, itchy skin, itching, circular rash",moderate,elderly,consult doctor
+Conjunctivitis (Viral),"dryness, itching, mild discharge, watery eyes, joint stiffness",mild,child,self-care
+Tension Headache,"scalp tenderness, dry cough, itchy skin, neck stiffness, headache",mild,adult,self-care
+Constipation,"fatigue, hard stools, abdominal discomfort, itchy skin, infrequent stools, bloating",moderate,adult,self-care
+Mild GERD,"poor appetite, itchy skin, heartburn, acid reflux, chest discomfort, sore throat",mild,child,self-care
+Dandruff,"flaky skin, itchy skin, itchy scalp, redness",mild,child,self-care
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",mild,child,consult doctor
+Conjunctivitis (Viral),"red eyes, poor appetite, dryness, itching, watery eyes",mild,adolescent,consult doctor
+Acne Vulgaris,"irritation, pimples, blackheads, whiteheads, oily skin, joint stiffness",mild,elderly,self-care
+Dandruff,"dry cough, mild fever, scalp dryness, itchy scalp, redness",mild,adolescent,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain",moderate,child,self-care
+Dandruff,"flaky skin, redness, scalp dryness, itchy scalp, joint stiffness",mild,adolescent,consult doctor
+Seasonal Influenza (Mild),"muscle tension, fatigue, itchy skin, runny nose, cough, fever, sore throat",mild,elderly,consult doctor
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, dryness, headache, irritation",moderate,adolescent,self-care
+Dandruff,"dry cough, flaky skin, redness, scalp dryness",moderate,adult,consult doctor
+Constipation,"abdominal discomfort, hard stools, infrequent stools, poor appetite",mild,elderly,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",moderate,child,self-care
+Plantar Fasciitis,"heel pain, foot stiffness, mild fever, tenderness",mild,elderly,consult doctor
+Eczema,"rash, dry skin, itchy skin",mild,elderly,consult doctor
+Irritable Bowel Syndrome,"diarrhea, abdominal pain, constipation",moderate,adult,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",mild,adolescent,self-care
+Tension Headache,"scalp tenderness, poor appetite, fatigue, neck stiffness, headache",mild,elderly,self-care
+Tinea Corporis (Ringworm),"muscle tension, scaling, fatigue, itching, red patches",mild,adolescent,consult doctor
+Mild GERD,"mild fever, poor appetite, heartburn, acid reflux, sore throat",moderate,elderly,consult doctor
+Dandruff,"muscle tension, flaky skin, itchy skin, itchy scalp, redness",moderate,adult,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, oily skin",moderate,child,consult doctor
+Irritable Bowel Syndrome,"dry cough, abdominal pain, itchy skin, diarrhea, bloating",mild,elderly,consult doctor
+Mild GERD,"itchy skin, dryness, heartburn, acid reflux, chest discomfort",mild,elderly,self-care
+Otitis Externa,"discharge, hearing loss, itchy ear canal, dryness, ear pain, irritation",moderate,adult,consult doctor
+Conjunctivitis (Viral),"red eyes, mild fever, dryness, itching, mild discharge",mild,adult,self-care
+Otitis Externa,"discharge, hearing loss, itchy ear canal, ear pain",moderate,adult,self-care
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion, runny nose",mild,adult,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, itching",mild,child,consult doctor
+Dandruff,"flaky skin, redness, scalp dryness, itchy scalp, joint stiffness",mild,child,self-care
+Gastritis (Non-Erosive),"itchy skin, nausea, indigestion, bloating, upper abdominal pain",moderate,child,consult doctor
+Tension Headache,"headache, scalp tenderness, fatigue, neck stiffness",mild,adult,self-care
+Conjunctivitis (Viral),"red eyes, mild discharge, itching, watery eyes, irritation",mild,elderly,self-care
+Acne Vulgaris,"itchy skin, blackheads, pimples, oily skin",moderate,child,consult doctor
+Seasonal Influenza (Mild),"muscle tension, poor appetite, fatigue, runny nose, fever",mild,child,self-care
+Mild GERD,"heartburn, acid reflux, sore throat",moderate,elderly,self-care
+Acne Vulgaris,"muscle tension, pimples, blackheads, whiteheads, oily skin",moderate,adult,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, dryness",mild,child,consult doctor
+Seasonal Influenza (Mild),"fatigue, cough, runny nose, sore throat, fever",mild,child,self-care
+Seasonal Influenza (Mild),"muscle tension, poor appetite, fatigue, cough, runny nose, sore throat, fever",mild,adolescent,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",moderate,child,self-care
+Otitis Externa,"hearing loss, itchy ear canal, fatigue, ear pain",mild,elderly,self-care
+Tension Headache,"headache, scalp tenderness, neck stiffness",moderate,adolescent,self-care
+Constipation,"bloating, hard stools, infrequent stools, abdominal discomfort",moderate,child,self-care
+Dandruff,"sneezing, flaky skin, redness, scalp dryness",moderate,child,self-care
+Constipation,"bloating, hard stools, abdominal discomfort, dry cough",mild,adolescent,consult doctor
+Eczema,"dry skin, mild fever, itchy skin, rash, red patches",mild,adult,consult doctor
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking, tenderness",mild,child,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, itchy skin",moderate,adult,consult doctor
+Otitis Externa,"discharge, hearing loss, mild fever, itchy ear canal, ear pain",mild,adult,consult doctor
+Conjunctivitis (Viral),"red eyes, dry cough, itchy skin, itching, mild discharge, watery eyes",mild,child,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain",mild,elderly,self-care
+Eczema,"dry skin, red patches, itchy skin",moderate,elderly,consult doctor
+Conjunctivitis (Viral),"red eyes, poor appetite, itchy skin, itching, watery eyes",moderate,adult,consult doctor
+Tension Headache,"scalp tenderness, fatigue, headache",mild,elderly,self-care
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking",mild,child,self-care
+Allergic Rhinitis,"muscle tension, poor appetite, nasal congestion, sneezing, runny nose",mild,child,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, mild fever, runny nose",mild,child,consult doctor
+Gastritis (Non-Erosive),"nausea, indigestion, upper abdominal pain",moderate,elderly,self-care
+Eczema,"dry skin, muscle tension, poor appetite, itchy skin, rash",moderate,elderly,self-care
+Allergic Rhinitis,"itchy eyes, sneezing, dryness, runny nose, irritation",moderate,child,self-care
+Dandruff,"dry cough, redness, scalp dryness, itchy scalp, joint stiffness",mild,adult,consult doctor
+Mild Depression,"loss of interest, poor concentration, low mood",moderate,child,self-care
+Mild Depression,"fatigue, poor concentration, poor appetite, low mood",mild,elderly,consult doctor
+Eczema,"dry skin, muscle tension, itchy skin, rash, red patches",mild,child,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes",mild,adolescent,self-care
+Constipation,"bloating, hard stools, abdominal discomfort",mild,elderly,self-care
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion, runny nose",moderate,adolescent,consult doctor
+Constipation,"bloating, hard stools, infrequent stools",moderate,elderly,self-care
+Allergic Rhinitis,"itchy eyes, dry cough, nasal congestion, sneezing, runny nose, joint stiffness",mild,elderly,self-care
+Constipation,"hard stools, abdominal discomfort, infrequent stools, poor appetite",mild,child,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, poor appetite, mild discharge",mild,child,self-care
+Tension Headache,"headache, fatigue, neck stiffness",mild,adolescent,self-care
+Tinea Corporis (Ringworm),"circular rash, red patches, itching",mild,child,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal, ear pain, irritation",moderate,adult,consult doctor
+Dandruff,"itchy scalp, redness, scalp dryness",moderate,elderly,self-care
+Plantar Fasciitis,"tenderness, pain with walking, heel pain, foot stiffness, irritation",mild,adult,consult doctor
+Dandruff,"itchy scalp, irritation, flaky skin, scalp dryness",moderate,elderly,self-care
+Conjunctivitis (Viral),"red eyes, muscle tension, mild discharge, sneezing, itching, watery eyes",mild,elderly,consult doctor
+Allergic Rhinitis,"itchy eyes, poor appetite, nasal congestion, sneezing, runny nose",mild,adult,self-care
+Tinea Corporis (Ringworm),"red patches, muscle tension, scaling, fatigue, itching, circular rash",moderate,child,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, upper abdominal pain",moderate,child,consult doctor
+Otitis Externa,"discharge, hearing loss, fatigue, itchy ear canal, ear pain",mild,adult,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,adult,consult doctor
+Plantar Fasciitis,"mild fever, pain with walking, sneezing, heel pain, foot stiffness, tenderness",moderate,adult,consult doctor
+Constipation,"bloating, hard stools, infrequent stools",mild,adolescent,consult doctor
+Seasonal Influenza (Mild),"fatigue, runny nose, cough",moderate,adult,self-care
+Dandruff,"mild fever, flaky skin, poor appetite, scalp dryness, redness",moderate,adult,self-care
+Mild Depression,"loss of interest, poor concentration, low mood",mild,adult,consult doctor
+Seasonal Influenza (Mild),"fatigue, sore throat, runny nose, cough, fever",mild,elderly,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",moderate,child,self-care
+Seasonal Influenza (Mild),"muscle tension, fatigue, itchy skin, cough, fever",mild,child,self-care
+Mild GERD,"dry cough, heartburn, acid reflux, chest discomfort, sore throat",mild,child,consult doctor
+Dandruff,"flaky skin, scalp dryness, redness",mild,elderly,self-care
+Mild GERD,"muscle tension, fatigue, heartburn, acid reflux, chest discomfort, sore throat",moderate,adult,self-care
+Constipation,"bloating, hard stools, infrequent stools, irritation",moderate,adolescent,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",moderate,child,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, mild discharge",mild,elderly,self-care
+Tension Headache,"scalp tenderness, fatigue, dry cough, neck stiffness",mild,elderly,consult doctor
+Plantar Fasciitis,"dry cough, mild fever, pain with walking, heel pain, foot stiffness",mild,adult,self-care
+Constipation,"hard stools, bloating, abdominal discomfort, infrequent stools",moderate,adult,self-care
+Mild GERD,"chest discomfort, heartburn, acid reflux",mild,elderly,self-care
+Mild GERD,"poor appetite, heartburn, acid reflux, chest discomfort, sore throat",moderate,child,consult doctor
+Mild GERD,"chest discomfort, acid reflux, sore throat, heartburn",moderate,adolescent,self-care
+Mild Depression,"fatigue, poor concentration, low mood",moderate,child,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, mild discharge",moderate,adolescent,consult doctor
+Plantar Fasciitis,"fatigue, pain with walking, sneezing, heel pain, tenderness",moderate,child,self-care
+Allergic Rhinitis,"itchy eyes, dry cough, mild fever, sneezing, runny nose",moderate,adolescent,self-care
+Tension Headache,"neck stiffness, scalp tenderness, joint stiffness, headache",moderate,adult,consult doctor
+Dandruff,"flaky skin, redness, scalp dryness",moderate,child,self-care
+Allergic Rhinitis,"itchy eyes, nasal congestion, fatigue, sneezing, runny nose",mild,elderly,consult doctor
+Plantar Fasciitis,"pain with walking, dryness, heel pain, foot stiffness, joint stiffness",mild,adolescent,self-care
+Tinea Corporis (Ringworm),"circular rash, scaling, red patches, itching",moderate,elderly,self-care
+Mild Depression,"poor concentration, muscle tension, low mood, fatigue, dryness, loss of interest",mild,adolescent,consult doctor
+Allergic Rhinitis,"itchy eyes, nasal congestion, fatigue, runny nose, joint stiffness",moderate,elderly,consult doctor
+Tension Headache,"neck stiffness, scalp tenderness, headache",mild,elderly,self-care
+Allergic Rhinitis,"itchy eyes, muscle tension, nasal congestion, itchy skin, sneezing, runny nose",mild,elderly,self-care
+Seasonal Influenza (Mild),"sore throat, runny nose, cough",mild,adolescent,consult doctor
+Irritable Bowel Syndrome,"muscle tension, sneezing, diarrhea, bloating, constipation",moderate,child,self-care
+Gastritis (Non-Erosive),"poor appetite, itchy skin, nausea, indigestion, bloating",mild,elderly,self-care
+Otitis Externa,"discharge, hearing loss, itchy ear canal, sneezing, ear pain",mild,elderly,consult doctor
+Constipation,"irritation, hard stools, infrequent stools, bloating, joint stiffness",mild,elderly,consult doctor
+Eczema,"rash, red patches, itchy skin",moderate,elderly,self-care
+Eczema,"dry skin, sneezing, rash, red patches, irritation",mild,adult,consult doctor
+Mild GERD,"acid reflux, sore throat, heartburn",mild,elderly,self-care
+Gastritis (Non-Erosive),"mild fever, nausea, indigestion, bloating, upper abdominal pain",moderate,adolescent,consult doctor
+Eczema,"dry skin, itchy skin, rash, red patches, joint stiffness",moderate,adult,self-care
+Eczema,"dry skin, red patches, itchy skin",mild,elderly,self-care
+Plantar Fasciitis,"pain with walking, heel pain, foot stiffness, tenderness",mild,adolescent,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, muscle tension, mild discharge",moderate,child,consult doctor
+Acne Vulgaris,"pimples, blackheads, itchy skin, whiteheads, oily skin, joint stiffness",mild,adult,consult doctor
+Plantar Fasciitis,"pain with walking, heel pain, foot stiffness, tenderness",moderate,child,self-care
+Gastritis (Non-Erosive),"poor appetite, itchy skin, nausea, bloating, upper abdominal pain",mild,child,consult doctor
+Tension Headache,"scalp tenderness, fatigue, itchy skin, neck stiffness, headache",mild,child,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, mild discharge",moderate,child,consult doctor
+Constipation,"hard stools, bloating, infrequent stools",mild,elderly,consult doctor
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, sneezing, headache",moderate,elderly,consult doctor
+Seasonal Influenza (Mild),"fatigue, runny nose, cough, sore throat, fever",mild,adolescent,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",moderate,adolescent,consult doctor
+Tension Headache,"headache, scalp tenderness, irritation, neck stiffness",moderate,child,consult doctor
+Mild GERD,"poor appetite, heartburn, acid reflux, chest discomfort, sore throat",moderate,adolescent,consult doctor
+Plantar Fasciitis,"muscle tension, fatigue, pain with walking, heel pain, foot stiffness",moderate,child,consult doctor
+Dandruff,"itchy scalp, muscle tension, flaky skin, redness",moderate,elderly,self-care
+Tension Headache,"scalp tenderness, mild fever, fatigue, sneezing, headache",mild,adolescent,self-care
+Tinea Corporis (Ringworm),"scaling, itchy skin, itching, circular rash, red patches",mild,adolescent,self-care
+Tinea Corporis (Ringworm),"red patches, scaling, circular rash",mild,child,self-care
+Seasonal Influenza (Mild),"fatigue, dryness, runny nose, cough, fever, joint stiffness",mild,child,self-care
+Mild Depression,"poor concentration, low mood, fatigue, dryness, loss of interest",moderate,adolescent,self-care
+Mild GERD,"chest discomfort, heartburn, acid reflux",moderate,adolescent,consult doctor
+Tension Headache,"neck stiffness, fatigue, headache",mild,adult,consult doctor
+Acne Vulgaris,"pimples, poor appetite, blackheads, whiteheads, joint stiffness",mild,child,self-care
+Tension Headache,"headache, fatigue, neck stiffness",moderate,elderly,consult doctor
+Gastritis (Non-Erosive),"nausea, sneezing, indigestion, bloating, upper abdominal pain",moderate,child,self-care
+Tinea Corporis (Ringworm),"circular rash, scaling, red patches, itching",moderate,elderly,self-care
+Dandruff,"flaky skin, itchy scalp, scalp dryness",moderate,adolescent,consult doctor
+Plantar Fasciitis,"poor appetite, pain with walking, heel pain, foot stiffness, tenderness",mild,adolescent,self-care
+Tinea Corporis (Ringworm),"red patches, scaling, circular rash, itching",mild,adult,consult doctor
+Plantar Fasciitis,"heel pain, pain with walking, tenderness",mild,child,consult doctor
+Dandruff,"itchy scalp, dry cough, flaky skin, scalp dryness",moderate,adolescent,self-care
+Acne Vulgaris,"muscle tension, pimples, whiteheads, dryness, oily skin",moderate,adolescent,consult doctor
+Conjunctivitis (Viral),"mild discharge, watery eyes, itching",mild,child,self-care
+Dandruff,"flaky skin, mild fever, fatigue, scalp dryness, itchy scalp, redness",moderate,elderly,self-care
+Eczema,"rash, dry skin, red patches, itchy skin",mild,elderly,consult doctor
+Acne Vulgaris,"pimples, blackheads, fatigue, itchy skin, whiteheads, oily skin",moderate,adult,self-care
+Tinea Corporis (Ringworm),"red patches, poor appetite, scaling, itching, circular rash",moderate,adolescent,consult doctor
+Mild GERD,"heartburn, muscle tension, acid reflux, sore throat",mild,adolescent,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, constipation",moderate,adolescent,self-care
+Tension Headache,"scalp tenderness, fatigue, sneezing, headache, joint stiffness",moderate,adolescent,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, mild discharge",mild,child,self-care
+Mild GERD,"chest discomfort, heartburn, dryness, acid reflux",mild,child,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, upper abdominal pain",moderate,elderly,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,child,consult doctor
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking, tenderness",mild,adolescent,self-care
+Mild Depression,"muscle tension, fatigue, poor concentration, low mood",mild,child,self-care
+Eczema,"dry skin, muscle tension, itchy skin, sneezing, red patches",moderate,child,consult doctor
+Eczema,"dry skin, poor appetite, itchy skin, rash, red patches",mild,elderly,consult doctor
+Seasonal Influenza (Mild),"fatigue, runny nose, sore throat, cough, fever",moderate,adolescent,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,adolescent,self-care
+Mild GERD,"dry cough, poor appetite, heartburn, acid reflux, chest discomfort, sore throat",moderate,adolescent,self-care
+Dandruff,"dry cough, flaky skin, scalp dryness, redness",mild,elderly,self-care
+Conjunctivitis (Viral),"red eyes, mild fever, mild discharge, itching, watery eyes",moderate,adolescent,consult doctor
+Gastritis (Non-Erosive),"dry cough, nausea, indigestion, bloating, upper abdominal pain",moderate,adult,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, pimples, oily skin",moderate,adolescent,self-care
+Tinea Corporis (Ringworm),"circular rash, scaling, fatigue, red patches",moderate,adult,self-care
+Mild GERD,"heartburn, acid reflux, chest discomfort, sore throat, joint stiffness",mild,elderly,consult doctor
+Conjunctivitis (Viral),"irritation, mild discharge, itching, watery eyes, joint stiffness",moderate,adolescent,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal",mild,elderly,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, pimples",moderate,adult,consult doctor
+Dandruff,"itchy scalp, flaky skin, scalp dryness, redness",moderate,child,self-care
+Gastritis (Non-Erosive),"indigestion, bloating, upper abdominal pain, poor appetite",mild,adult,consult doctor
+Plantar Fasciitis,"fatigue, pain with walking, itchy skin, heel pain, foot stiffness, tenderness",moderate,adolescent,consult doctor
+Allergic Rhinitis,"itchy eyes, nasal congestion, fatigue, sneezing, runny nose",moderate,elderly,self-care
+Constipation,"dry cough, fatigue, hard stools, abdominal discomfort, infrequent stools, bloating",moderate,child,self-care
+Tension Headache,"neck stiffness, scalp tenderness, fatigue, headache",moderate,adult,self-care
+Dandruff,"flaky skin, poor appetite, scalp dryness, itchy scalp, redness",moderate,child,consult doctor
+Tinea Corporis (Ringworm),"scaling, fatigue, circular rash, itching",moderate,adolescent,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",moderate,elderly,self-care
+Otitis Externa,"discharge, ear pain, itchy ear canal, poor appetite",moderate,adult,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, irritation",moderate,child,consult doctor
+Conjunctivitis (Viral),"red eyes, itchy skin, sneezing, mild discharge, watery eyes",moderate,elderly,self-care
+Dandruff,"flaky skin, itchy scalp, redness, scalp dryness",mild,elderly,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",moderate,elderly,self-care
+Tension Headache,"muscle tension, mild fever, fatigue, neck stiffness, headache",mild,adolescent,self-care
+Constipation,"bloating, infrequent stools, abdominal discomfort, joint stiffness",mild,adolescent,consult doctor
+Acne Vulgaris,"pimples, blackheads, fatigue, whiteheads, sneezing, oily skin",moderate,adult,self-care
+Allergic Rhinitis,"sneezing, itchy eyes, fatigue, runny nose",mild,child,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",moderate,elderly,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",moderate,adolescent,self-care
+Dandruff,"flaky skin, muscle tension, itchy scalp, redness",mild,elderly,consult doctor
+Constipation,"mild fever, abdominal discomfort, hard stools, itchy skin, infrequent stools, bloating",mild,elderly,consult doctor
+Tinea Corporis (Ringworm),"red patches, circular rash, itching",moderate,child,self-care
+Conjunctivitis (Viral),"watery eyes, itching, mild discharge",moderate,child,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, runny nose",mild,elderly,self-care
+Constipation,"muscle tension, mild fever, hard stools, abdominal discomfort, infrequent stools, bloating",mild,adult,self-care
+Constipation,"mild fever, poor appetite, hard stools, abdominal discomfort, infrequent stools, bloating",mild,elderly,self-care
+Tension Headache,"scalp tenderness, mild fever, fatigue, neck stiffness, itchy skin, headache",mild,child,self-care
+Gastritis (Non-Erosive),"indigestion, bloating, upper abdominal pain, irritation",moderate,adult,consult doctor
+Seasonal Influenza (Mild),"fatigue, runny nose, sore throat, fever, joint stiffness",moderate,child,self-care
+Tension Headache,"sneezing, scalp tenderness, fatigue, headache",moderate,adolescent,consult doctor
+Gastritis (Non-Erosive),"indigestion, bloating, upper abdominal pain, joint stiffness",mild,child,self-care
+Otitis Externa,"discharge, hearing loss, muscle tension, poor appetite, itchy ear canal, ear pain",mild,adolescent,consult doctor
+Seasonal Influenza (Mild),"fatigue, runny nose, sore throat, cough",moderate,adult,self-care
+Dandruff,"flaky skin, fatigue, scalp dryness, itchy scalp, redness",mild,adolescent,consult doctor
+Plantar Fasciitis,"tenderness, pain with walking, heel pain, foot stiffness, irritation",moderate,adult,consult doctor
+Eczema,"dry skin, rash, mild fever, itchy skin",moderate,elderly,consult doctor
+Gastritis (Non-Erosive),"nausea, dryness, indigestion, bloating, upper abdominal pain",moderate,elderly,self-care
+Tension Headache,"neck stiffness, scalp tenderness, headache",mild,elderly,self-care
+Allergic Rhinitis,"itchy eyes, poor appetite, nasal congestion, sneezing, dryness, runny nose",mild,adolescent,consult doctor
+Eczema,"dry skin, muscle tension, poor appetite, itchy skin, red patches",moderate,elderly,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, dry cough, upper abdominal pain",mild,adult,self-care
+Allergic Rhinitis,"itchy eyes, nasal congestion, itchy skin, sneezing, runny nose, irritation",mild,adolescent,self-care
+Eczema,"rash, fatigue, red patches, itchy skin",mild,elderly,consult doctor
+Tension Headache,"scalp tenderness, fatigue, headache",moderate,child,self-care
+Irritable Bowel Syndrome,"sneezing, bloating, abdominal pain, constipation",moderate,adolescent,self-care
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",mild,adult,self-care
+Mild Depression,"loss of interest, poor concentration, low mood",moderate,adolescent,self-care
+Gastritis (Non-Erosive),"poor appetite, nausea, dryness, indigestion, bloating, upper abdominal pain",mild,child,consult doctor
+Eczema,"dry skin, irritation, itchy skin, red patches, joint stiffness",mild,elderly,consult doctor
+Eczema,"sneezing, rash, dry skin, red patches",moderate,child,consult doctor
+Seasonal Influenza (Mild),"fatigue, sore throat, runny nose, fever, irritation",mild,adolescent,consult doctor
+Constipation,"muscle tension, hard stools, abdominal discomfort, infrequent stools, bloating",moderate,adolescent,self-care
+Acne Vulgaris,"whiteheads, blackheads, pimples, oily skin",mild,child,self-care
+Dandruff,"flaky skin, itchy scalp, redness, scalp dryness",mild,elderly,self-care
+Seasonal Influenza (Mild),"fatigue, runny nose, sore throat, cough",mild,adult,consult doctor
+Eczema,"rash, dry skin, red patches",mild,adult,self-care
+Tinea Corporis (Ringworm),"scaling, red patches, itching",mild,elderly,self-care
+Tinea Corporis (Ringworm),"scaling, dryness, itching, circular rash, red patches, joint stiffness",mild,adult,consult doctor
+Eczema,"rash, joint stiffness, red patches, itchy skin",mild,adult,consult doctor
+Otitis Externa,"discharge, itchy ear canal, fatigue, ear pain",moderate,adult,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, upper abdominal pain, mild fever",mild,adult,self-care
+Gastritis (Non-Erosive),"nausea, bloating, fatigue, upper abdominal pain",mild,adult,self-care
+Mild GERD,"mild fever, heartburn, acid reflux, sore throat, irritation",moderate,elderly,self-care
+Mild GERD,"poor appetite, itchy skin, acid reflux, chest discomfort, sore throat",moderate,child,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal",moderate,child,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, poor appetite, diarrhea, sneezing, bloating, constipation",mild,child,self-care
+Gastritis (Non-Erosive),"muscle tension, nausea, indigestion, bloating, upper abdominal pain",mild,elderly,self-care
+Gastritis (Non-Erosive),"dry cough, dryness, indigestion, bloating, upper abdominal pain",moderate,adolescent,self-care
+Acne Vulgaris,"whiteheads, blackheads, oily skin",mild,adult,consult doctor
+Otitis Externa,"hearing loss, itchy ear canal, ear pain, discharge",mild,child,self-care
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",mild,adult,self-care
+Gastritis (Non-Erosive),"fatigue, nausea, indigestion, bloating, upper abdominal pain",moderate,elderly,self-care
+Plantar Fasciitis,"heel pain, foot stiffness, tenderness",moderate,elderly,self-care
+Plantar Fasciitis,"poor appetite, pain with walking, heel pain, foot stiffness, tenderness",moderate,adolescent,consult doctor
+Tension Headache,"scalp tenderness, fatigue, neck stiffness",moderate,adolescent,self-care
+Tension Headache,"neck stiffness, scalp tenderness, fatigue, headache",moderate,elderly,consult doctor
+Allergic Rhinitis,"nasal congestion, itchy eyes, runny nose",moderate,child,consult doctor
+Seasonal Influenza (Mild),"fever, fatigue, mild fever, runny nose",moderate,child,self-care
+Dandruff,"dry cough, flaky skin, itchy skin, itchy scalp, redness",mild,adolescent,self-care
+Gastritis (Non-Erosive),"mild fever, nausea, sneezing, bloating, upper abdominal pain",moderate,adolescent,self-care
+Gastritis (Non-Erosive),"nausea, dryness, indigestion, bloating, upper abdominal pain",moderate,adult,self-care
+Plantar Fasciitis,"heel pain, foot stiffness, tenderness",moderate,child,self-care
+Plantar Fasciitis,"fatigue, pain with walking, heel pain, foot stiffness, tenderness",mild,child,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,child,consult doctor
+Mild Depression,"poor concentration, poor appetite, low mood, fatigue, loss of interest",mild,adolescent,consult doctor
+Tension Headache,"scalp tenderness, fatigue, neck stiffness",moderate,elderly,consult doctor
+Allergic Rhinitis,"sneezing, nasal congestion, runny nose",moderate,elderly,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, poor appetite, itching",mild,adolescent,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration",mild,adult,self-care
+Constipation,"dry cough, poor appetite, hard stools, infrequent stools, bloating",moderate,child,consult doctor
+Eczema,"dry skin, mild fever, rash, red patches, joint stiffness",mild,adolescent,consult doctor
+Irritable Bowel Syndrome,"bloating, muscle tension, abdominal pain, constipation",moderate,child,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, mild fever, diarrhea, bloating, constipation, joint stiffness",moderate,child,self-care
+Mild GERD,"poor appetite, heartburn, acid reflux, chest discomfort, sore throat, irritation",moderate,elderly,self-care
+Otitis Externa,"discharge, hearing loss, itchy ear canal, itchy skin",moderate,elderly,self-care
+Mild Depression,"dry cough, poor concentration, low mood, fatigue, loss of interest",moderate,adolescent,self-care
+Mild GERD,"poor appetite, heartburn, acid reflux, sore throat, joint stiffness",moderate,adolescent,self-care
+Seasonal Influenza (Mild),"fatigue, sneezing, runny nose, fever, irritation",moderate,adult,consult doctor
+Allergic Rhinitis,"sneezing, nasal congestion, runny nose",moderate,elderly,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, upper abdominal pain, irritation",mild,adolescent,consult doctor
+Constipation,"mild fever, abdominal discomfort, sneezing, infrequent stools, bloating",mild,adult,self-care
+Acne Vulgaris,"pimples, blackheads, whiteheads, sneezing, oily skin",mild,adult,consult doctor
+Constipation,"muscle tension, abdominal discomfort, hard stools, infrequent stools, joint stiffness",moderate,child,consult doctor
+Plantar Fasciitis,"tenderness, pain with walking, heel pain, foot stiffness, joint stiffness",moderate,child,self-care
+Otitis Externa,"discharge, hearing loss, poor appetite, fatigue, ear pain",mild,adolescent,self-care
+Tension Headache,"scalp tenderness, muscle tension, fatigue, neck stiffness, headache",mild,adolescent,self-care
+Eczema,"dry skin, muscle tension, mild fever, rash, red patches",moderate,child,self-care
+Otitis Externa,"discharge, hearing loss, itchy ear canal, dryness, ear pain",moderate,adolescent,consult doctor
+Tension Headache,"scalp tenderness, mild fever, fatigue, neck stiffness, headache",mild,elderly,consult doctor
+Allergic Rhinitis,"itchy eyes, poor appetite, nasal congestion, sneezing, runny nose",mild,adult,self-care
+Plantar Fasciitis,"irritation, poor appetite, pain with walking, heel pain, foot stiffness, tenderness",moderate,elderly,consult doctor
+Eczema,"rash, dry skin, red patches, joint stiffness",moderate,adolescent,self-care
+Otitis Externa,"discharge, hearing loss, dry cough, fatigue, itchy ear canal",moderate,child,consult doctor
+Plantar Fasciitis,"poor appetite, pain with walking, heel pain, foot stiffness, tenderness",moderate,adolescent,self-care
+Tension Headache,"headache, scalp tenderness, neck stiffness",mild,adolescent,self-care
+Constipation,"joint stiffness, hard stools, abdominal discomfort, bloating, irritation",moderate,child,self-care
+Dandruff,"sneezing, flaky skin, redness, scalp dryness",mild,adolescent,consult doctor
+Conjunctivitis (Viral),"red eyes, muscle tension, itching, mild discharge, watery eyes",moderate,child,self-care
+Tinea Corporis (Ringworm),"scaling, red patches, itching",moderate,adult,self-care
+Eczema,"fatigue, itchy skin, rash, red patches, irritation",moderate,elderly,consult doctor
+Conjunctivitis (Viral),"red eyes, muscle tension, mild discharge, fatigue, itching, watery eyes",moderate,adolescent,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",mild,adolescent,consult doctor
+Acne Vulgaris,"pimples, blackheads, whiteheads, oily skin, joint stiffness",moderate,adult,consult doctor
+Constipation,"hard stools, abdominal discomfort, infrequent stools, bloating, joint stiffness",moderate,elderly,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, mild fever, oily skin",mild,child,consult doctor
+Otitis Externa,"discharge, hearing loss, mild fever, itchy ear canal, ear pain",moderate,child,consult doctor
+Eczema,"rash, dry skin, red patches, itchy skin",moderate,adult,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, pimples, oily skin",moderate,elderly,self-care
+Otitis Externa,"discharge, dry cough, muscle tension, itchy ear canal, ear pain",mild,adolescent,consult doctor
+Seasonal Influenza (Mild),"fatigue, sore throat, cough",mild,elderly,self-care
+Tension Headache,"scalp tenderness, fatigue, itchy skin, dryness, headache",mild,child,consult doctor
+Dandruff,"dry cough, flaky skin, poor appetite, itchy scalp, redness",moderate,elderly,consult doctor
+Tension Headache,"neck stiffness, scalp tenderness, fatigue, headache",moderate,elderly,consult doctor
+Otitis Externa,"discharge, ear pain, itchy ear canal, irritation",moderate,elderly,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, mild fever, fatigue, diarrhea, bloating",moderate,child,self-care
+Constipation,"bloating, hard stools, infrequent stools, abdominal discomfort",mild,adolescent,self-care
+Mild Depression,"muscle tension, poor concentration, mild fever, fatigue, loss of interest",mild,adult,self-care
+Allergic Rhinitis,"itchy eyes, muscle tension, sneezing, dryness, runny nose",moderate,elderly,consult doctor
+Mild Depression,"poor concentration, poor appetite, low mood, fatigue, loss of interest",mild,adolescent,self-care
+Otitis Externa,"discharge, hearing loss, fatigue, itchy ear canal, itchy skin",mild,elderly,self-care
+Seasonal Influenza (Mild),"poor appetite, fatigue, itchy skin, runny nose, cough, sore throat, fever",moderate,adolescent,consult doctor
+Eczema,"dry skin, itchy skin, rash, red patches, irritation",mild,elderly,consult doctor
+Tension Headache,"dry cough, muscle tension, fatigue, neck stiffness, headache",mild,adult,self-care
+Tinea Corporis (Ringworm),"red patches, mild fever, scaling, itchy skin, itching, circular rash",moderate,adolescent,self-care
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, dryness, headache",mild,adolescent,self-care
+Seasonal Influenza (Mild),"fever, fatigue, runny nose, cough",moderate,child,consult doctor
+Mild GERD,"heartburn, chest discomfort, sore throat, acid reflux",moderate,elderly,consult doctor
+Mild Depression,"poor concentration, low mood, fatigue, loss of interest, irritation",moderate,child,consult doctor
+Gastritis (Non-Erosive),"fatigue, nausea, dryness, bloating, upper abdominal pain",moderate,elderly,self-care
+Eczema,"rash, dry skin, red patches, irritation",mild,adolescent,self-care
+Constipation,"dry cough, poor appetite, hard stools, abdominal discomfort, infrequent stools, bloating",mild,child,self-care
+Constipation,"hard stools, abdominal discomfort, itchy skin, dryness, infrequent stools, bloating",moderate,child,self-care
+Plantar Fasciitis,"dryness, heel pain, foot stiffness, tenderness",mild,child,self-care
+Conjunctivitis (Viral),"red eyes, itchy skin, sneezing, mild discharge, watery eyes",moderate,adolescent,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",moderate,child,consult doctor
+Conjunctivitis (Viral),"red eyes, itching, watery eyes, mild discharge",moderate,adult,consult doctor
+Allergic Rhinitis,"itchy eyes, dry cough, nasal congestion, sneezing, runny nose, irritation",moderate,adult,consult doctor
+Constipation,"sneezing, hard stools, abdominal discomfort, infrequent stools",mild,elderly,self-care
+Otitis Externa,"discharge, hearing loss, itchy ear canal, itchy skin, ear pain",mild,child,self-care
+Irritable Bowel Syndrome,"dry cough, abdominal pain, sneezing, diarrhea, bloating",mild,adult,self-care
+Seasonal Influenza (Mild),"poor appetite, fatigue, itchy skin, runny nose, cough, fever",mild,child,consult doctor
+Tinea Corporis (Ringworm),"circular rash, scaling, red patches, itching",moderate,adult,consult doctor
+Eczema,"rash, dry skin, red patches, itchy skin",mild,elderly,consult doctor
+Irritable Bowel Syndrome,"bloating, abdominal pain, constipation",moderate,elderly,self-care
+Mild GERD,"muscle tension, heartburn, acid reflux, chest discomfort, sore throat",mild,adolescent,consult doctor
+Seasonal Influenza (Mild),"mild fever, fatigue, runny nose, sore throat, irritation",mild,child,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal, ear pain",mild,adult,self-care
+Eczema,"dry skin, poor appetite, itchy skin, rash, red patches, irritation",moderate,child,consult doctor
+Tinea Corporis (Ringworm),"scaling, fatigue, red patches, itching",moderate,adolescent,self-care
+Mild Depression,"poor concentration, low mood, fatigue, dryness, loss of interest",mild,elderly,self-care
+Conjunctivitis (Viral),"red eyes, mild discharge, itching",mild,child,consult doctor
+Gastritis (Non-Erosive),"fatigue, bloating, indigestion, upper abdominal pain",moderate,elderly,self-care
+Dandruff,"mild fever, flaky skin, scalp dryness, itchy scalp, redness",mild,adolescent,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, joint stiffness",mild,elderly,self-care
+Acne Vulgaris,"whiteheads, blackheads, dry cough, oily skin",moderate,elderly,consult doctor
+Eczema,"dry skin, poor appetite, itchy skin, red patches, irritation",moderate,adolescent,self-care
+Tension Headache,"headache, scalp tenderness, dryness, neck stiffness",mild,child,self-care
+Dandruff,"flaky skin, redness, scalp dryness, itchy scalp, joint stiffness",mild,child,consult doctor
+Plantar Fasciitis,"poor appetite, pain with walking, heel pain, foot stiffness, tenderness",mild,adult,consult doctor
+Allergic Rhinitis,"sneezing, nasal congestion, runny nose",moderate,adult,consult doctor
+Tinea Corporis (Ringworm),"circular rash, scaling, red patches, itching",mild,elderly,self-care
+Conjunctivitis (Viral),"red eyes, mild discharge, dryness, itching, joint stiffness",moderate,adult,consult doctor
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, fatigue",mild,adult,self-care
+Allergic Rhinitis,"itchy eyes, nasal congestion, sneezing, dryness, joint stiffness",mild,adolescent,consult doctor
+Mild GERD,"heartburn, chest discomfort, sore throat, acid reflux",mild,adolescent,self-care
+Irritable Bowel Syndrome,"abdominal pain, fatigue, diarrhea, bloating, constipation",moderate,child,consult doctor
+Constipation,"dry cough, hard stools, abdominal discomfort, infrequent stools, bloating",mild,adult,consult doctor
+Otitis Externa,"discharge, hearing loss, mild fever, fatigue, itchy ear canal, ear pain",mild,adult,consult doctor
+Seasonal Influenza (Mild),"mild fever, fatigue, runny nose, cough, fever, irritation",moderate,child,self-care
+Acne Vulgaris,"dry cough, pimples, blackheads, whiteheads, oily skin, joint stiffness",mild,child,consult doctor
+Seasonal Influenza (Mild),"fever, fatigue, runny nose, sore throat",moderate,child,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, fatigue, oily skin",mild,adult,consult doctor
+Plantar Fasciitis,"heel pain, pain with walking, tenderness",moderate,adolescent,self-care
+Tinea Corporis (Ringworm),"mild fever, scaling, itching, circular rash, irritation",moderate,child,self-care
+Tension Headache,"joint stiffness, neck stiffness, fatigue, headache",mild,adult,self-care
+Tension Headache,"neck stiffness, scalp tenderness, fatigue, headache",moderate,elderly,consult doctor
+Allergic Rhinitis,"sneezing, itchy eyes, dryness, runny nose",mild,child,self-care
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking, tenderness",mild,adolescent,consult doctor
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion",mild,child,consult doctor
+Eczema,"rash, red patches, itchy skin",mild,adolescent,consult doctor
+Otitis Externa,"discharge, hearing loss, ear pain, itchy ear canal",mild,adult,self-care
+Otitis Externa,"discharge, hearing loss, fatigue, itchy ear canal, dryness, ear pain",moderate,elderly,consult doctor
+Mild Depression,"loss of interest, fatigue, poor appetite, low mood",moderate,elderly,consult doctor
+Mild GERD,"chest discomfort, sore throat, acid reflux, irritation",moderate,adolescent,self-care
+Dandruff,"flaky skin, redness, fatigue, scalp dryness, itchy scalp, irritation",moderate,adolescent,consult doctor
+Plantar Fasciitis,"foot stiffness, sneezing, heel pain, pain with walking",moderate,elderly,consult doctor
+Plantar Fasciitis,"pain with walking, heel pain, foot stiffness, tenderness",moderate,adolescent,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, bloating, upper abdominal pain, joint stiffness",mild,adolescent,consult doctor
+Plantar Fasciitis,"poor appetite, pain with walking, heel pain, foot stiffness, tenderness",moderate,adolescent,consult doctor
+Seasonal Influenza (Mild),"fatigue, runny nose, cough, fever, sore throat",moderate,adolescent,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, dry cough, itching",mild,elderly,consult doctor
+Seasonal Influenza (Mild),"poor appetite, fatigue, runny nose, cough, sore throat, fever",moderate,elderly,self-care
+Constipation,"hard stools, itchy skin, sneezing, infrequent stools, bloating",moderate,elderly,self-care
+Gastritis (Non-Erosive),"nausea, indigestion, upper abdominal pain",mild,child,consult doctor
+Tinea Corporis (Ringworm),"circular rash, scaling, red patches",mild,elderly,self-care
+Conjunctivitis (Viral),"red eyes, mild fever, sneezing, mild discharge, watery eyes",mild,adult,consult doctor
+Plantar Fasciitis,"irritation, fatigue, pain with walking, heel pain, foot stiffness, tenderness",mild,adolescent,self-care
+Irritable Bowel Syndrome,"abdominal pain, sneezing, diarrhea, bloating, constipation",moderate,adult,self-care
+Dandruff,"poor appetite, flaky skin, scalp dryness, redness",mild,adolescent,self-care
+Conjunctivitis (Viral),"red eyes, mild discharge, dryness, itching",moderate,child,self-care
+Tension Headache,"headache, scalp tenderness, fatigue, neck stiffness",moderate,elderly,self-care
+Eczema,"dry skin, dry cough, mild fever, itchy skin, red patches",mild,elderly,self-care
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, dryness, headache",mild,child,self-care
+Seasonal Influenza (Mild),"fatigue, fever, sore throat, poor appetite",moderate,adolescent,consult doctor
+Otitis Externa,"discharge, itchy ear canal, ear pain",mild,child,consult doctor
+Conjunctivitis (Viral),"red eyes, dry cough, dryness, mild discharge, watery eyes",moderate,child,consult doctor
+Gastritis (Non-Erosive),"mild fever, nausea, sneezing, indigestion, upper abdominal pain",mild,elderly,consult doctor
+Tinea Corporis (Ringworm),"red patches, dry cough, mild fever, scaling, circular rash",mild,adult,self-care
+Acne Vulgaris,"whiteheads, blackheads, itchy skin, oily skin",moderate,adolescent,self-care
+Seasonal Influenza (Mild),"dry cough, muscle tension, fatigue, runny nose, cough, fever",moderate,child,self-care
+Tinea Corporis (Ringworm),"red patches, scaling, circular rash, itching",mild,elderly,self-care
+Seasonal Influenza (Mild),"fatigue, fever, sore throat",moderate,elderly,self-care
+Tension Headache,"scalp tenderness, fatigue, headache",moderate,adult,consult doctor
+Tension Headache,"scalp tenderness, fatigue, itchy skin, neck stiffness, headache",moderate,elderly,consult doctor
+Irritable Bowel Syndrome,"dry cough, abdominal pain, mild fever, diarrhea, bloating, constipation",moderate,adult,self-care
+Constipation,"bloating, abdominal discomfort, hard stools, infrequent stools",mild,child,consult doctor
+Irritable Bowel Syndrome,"diarrhea, abdominal pain, constipation",moderate,adolescent,consult doctor
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, runny nose",moderate,adult,consult doctor
+Mild Depression,"fatigue, poor concentration, dry cough, low mood",mild,adolescent,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, itchy skin, diarrhea, bloating, constipation, joint stiffness",moderate,elderly,consult doctor
+Otitis Externa,"hearing loss, itchy ear canal, ear pain",moderate,elderly,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",mild,elderly,self-care
+Conjunctivitis (Viral),"red eyes, poor appetite, mild discharge, watery eyes, joint stiffness",moderate,child,consult doctor
+Eczema,"rash, red patches, itchy skin",moderate,adult,self-care
+Plantar Fasciitis,"pain with walking, heel pain, foot stiffness",moderate,child,consult doctor
+Mild GERD,"chest discomfort, heartburn, acid reflux, itchy skin",mild,adult,self-care
+Conjunctivitis (Viral),"sneezing, red eyes, watery eyes, mild discharge",mild,child,self-care
+Mild Depression,"poor concentration, low mood, fatigue, sneezing, dryness",mild,adolescent,consult doctor
+Allergic Rhinitis,"itchy eyes, nasal congestion, sneezing, dryness, runny nose",moderate,child,self-care
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, dryness",mild,adolescent,consult doctor
+Tinea Corporis (Ringworm),"mild fever, itching, circular rash, red patches, joint stiffness",mild,adult,consult doctor
+Tinea Corporis (Ringworm),"scaling, circular rash, itching",moderate,adult,self-care
+Constipation,"mild fever, hard stools, abdominal discomfort, infrequent stools, bloating, irritation",mild,child,self-care
+Allergic Rhinitis,"sneezing, itchy eyes, nasal congestion, runny nose",moderate,child,consult doctor
+Plantar Fasciitis,"foot stiffness, muscle tension, heel pain, pain with walking",moderate,elderly,consult doctor
+Dandruff,"itchy skin, dryness, scalp dryness, itchy scalp, redness",mild,child,consult doctor
+Seasonal Influenza (Mild),"fatigue, itchy skin, runny nose, sore throat, fever",mild,adolescent,self-care
+Seasonal Influenza (Mild),"mild fever, fatigue, dryness, runny nose, cough, fever, sore throat",moderate,adult,consult doctor
+Mild Depression,"poor concentration, low mood, fatigue, sneezing, loss of interest",mild,elderly,consult doctor
+Gastritis (Non-Erosive),"itchy skin, nausea, dryness, bloating, upper abdominal pain",moderate,child,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, irritation, oily skin",mild,elderly,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",moderate,elderly,self-care
+Tinea Corporis (Ringworm),"circular rash, dryness, scaling, red patches",mild,adolescent,consult doctor
+Seasonal Influenza (Mild),"fatigue, dryness, sneezing, runny nose, sore throat, cough, fever",moderate,adult,consult doctor
+Irritable Bowel Syndrome,"abdominal pain, fatigue, diarrhea, sneezing, bloating, constipation",mild,adolescent,consult doctor
+Tension Headache,"scalp tenderness, fatigue, headache",moderate,child,consult doctor
+Dandruff,"flaky skin, irritation, itchy scalp, scalp dryness",moderate,child,consult doctor
+Otitis Externa,"discharge, hearing loss, itchy ear canal, sneezing, ear pain",moderate,elderly,self-care
+Tension Headache,"headache, scalp tenderness, fatigue, neck stiffness",mild,adolescent,self-care
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",moderate,adolescent,consult doctor
+Seasonal Influenza (Mild),"poor appetite, dryness, sore throat, runny nose, fever",mild,child,consult doctor
+Tension Headache,"fatigue, neck stiffness, sneezing, dryness, headache",mild,adult,self-care
+Eczema,"dry skin, poor appetite, itchy skin, sneezing, rash, red patches",moderate,adolescent,consult doctor
+Plantar Fasciitis,"heel pain, pain with walking, mild fever, tenderness",mild,child,self-care
+Gastritis (Non-Erosive),"nausea, bloating, upper abdominal pain",mild,adolescent,self-care
+Eczema,"itchy skin, rash, dryness, red patches, irritation",moderate,adolescent,consult doctor
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",mild,adolescent,consult doctor
+Eczema,"rash, poor appetite, red patches, itchy skin",moderate,elderly,self-care
+Otitis Externa,"discharge, hearing loss, muscle tension, itchy ear canal, sneezing, ear pain",mild,child,consult doctor
+Mild GERD,"muscle tension, heartburn, acid reflux, chest discomfort, sore throat",moderate,child,consult doctor
+Mild Depression,"poor concentration, mild fever, low mood, fatigue, loss of interest",mild,adult,consult doctor
+Seasonal Influenza (Mild),"poor appetite, fatigue, runny nose, cough, fever, sore throat",moderate,adult,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration",mild,child,self-care
+Otitis Externa,"discharge, dry cough, ear pain, itchy ear canal",mild,adolescent,self-care
+Seasonal Influenza (Mild),"muscle tension, itchy skin, runny nose, cough, fever",mild,elderly,consult doctor
+Constipation,"bloating, hard stools, infrequent stools, abdominal discomfort",mild,elderly,self-care
+Otitis Externa,"discharge, hearing loss, fatigue, itchy ear canal, itchy skin, ear pain",moderate,elderly,self-care
+Tinea Corporis (Ringworm),"scaling, fatigue, itching, circular rash, red patches, irritation",mild,child,self-care
+Dandruff,"flaky skin, itchy skin, sneezing, itchy scalp, redness",mild,child,self-care
+Tension Headache,"scalp tenderness, fatigue, neck stiffness, sneezing, headache, irritation",moderate,adult,self-care
+Conjunctivitis (Viral),"dry cough, mild discharge, itching, watery eyes, joint stiffness",mild,adolescent,self-care
+Acne Vulgaris,"whiteheads, joint stiffness, pimples, oily skin",mild,elderly,consult doctor
+Irritable Bowel Syndrome,"bloating, dry cough, abdominal pain, constipation",mild,elderly,self-care
+Irritable Bowel Syndrome,"abdominal pain, poor appetite, diarrhea, bloating, constipation",moderate,elderly,consult doctor
+Eczema,"rash, dry skin, red patches, itchy skin",mild,adult,consult doctor
+Dandruff,"joint stiffness, flaky skin, sneezing, scalp dryness, itchy scalp, redness",mild,elderly,self-care
+Gastritis (Non-Erosive),"nausea, bloating, indigestion, upper abdominal pain",mild,elderly,self-care
+Mild GERD,"joint stiffness, heartburn, acid reflux, chest discomfort, sore throat, irritation",mild,elderly,self-care
+Irritable Bowel Syndrome,"abdominal pain, poor appetite, diarrhea, bloating, constipation",moderate,child,self-care
+Tension Headache,"scalp tenderness, fatigue, mild fever, neck stiffness",moderate,elderly,consult doctor
+Plantar Fasciitis,"muscle tension, mild fever, pain with walking, heel pain, foot stiffness",mild,adolescent,self-care
+Constipation,"hard stools, abdominal discomfort, sneezing, infrequent stools, irritation",mild,elderly,self-care
+Dandruff,"muscle tension, flaky skin, poor appetite, scalp dryness, itchy scalp",moderate,elderly,self-care
+Eczema,"sneezing, rash, red patches, itchy skin",moderate,adolescent,self-care
+Acne Vulgaris,"whiteheads, blackheads, pimples",moderate,adult,self-care
+Eczema,"dry skin, itchy skin, rash, dryness, red patches",moderate,child,self-care
+Dandruff,"flaky skin, mild fever, scalp dryness, itchy scalp, redness",moderate,adult,consult doctor
+Tinea Corporis (Ringworm),"scaling, dryness, itching, circular rash, red patches",mild,child,self-care
+Tension Headache,"neck stiffness, scalp tenderness, fatigue, headache",mild,child,self-care
+Tinea Corporis (Ringworm),"scaling, itchy skin, itching, circular rash, red patches",mild,child,self-care
+Otitis Externa,"discharge, ear pain, itchy ear canal",moderate,child,consult doctor
+Seasonal Influenza (Mild),"dry cough, runny nose, cough, sore throat, joint stiffness",mild,adult,self-care
+Otitis Externa,"discharge, hearing loss, fatigue, ear pain",moderate,adult,consult doctor
+Otitis Externa,"discharge, ear pain, itchy ear canal",moderate,adult,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain, constipation",mild,child,self-care
+Tinea Corporis (Ringworm),"dry cough, poor appetite, scaling, itching, circular rash, red patches",mild,child,consult doctor
+Otitis Externa,"discharge, hearing loss, ear pain, itchy ear canal",moderate,elderly,consult doctor
+Mild Depression,"loss of interest, fatigue, low mood",moderate,child,consult doctor
+Plantar Fasciitis,"irritation, heel pain, pain with walking, tenderness",moderate,adult,self-care
+Gastritis (Non-Erosive),"irritation, nausea, indigestion, bloating, upper abdominal pain, joint stiffness",moderate,adolescent,self-care
+Gastritis (Non-Erosive),"nausea, sneezing, bloating, upper abdominal pain",mild,elderly,consult doctor
+Mild Depression,"fatigue, poor concentration, poor appetite, low mood",moderate,elderly,self-care
+Allergic Rhinitis,"sneezing, nasal congestion, runny nose",mild,elderly,self-care
+Conjunctivitis (Viral),"red eyes, dry cough, mild discharge, itching, watery eyes",moderate,child,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration",mild,child,consult doctor
+Plantar Fasciitis,"foot stiffness, heel pain, pain with walking",mild,elderly,self-care
+Otitis Externa,"discharge, hearing loss, dry cough, itchy ear canal",mild,adult,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration",mild,child,self-care
+Conjunctivitis (Viral),"red eyes, watery eyes, itching",moderate,adolescent,self-care
+Irritable Bowel Syndrome,"muscle tension, abdominal pain, diarrhea, dryness, bloating, constipation",moderate,child,consult doctor
+Tinea Corporis (Ringworm),"circular rash, dryness, red patches, itching",moderate,adult,consult doctor
+Eczema,"dry skin, itchy skin, rash, dryness, red patches, irritation",moderate,adult,self-care
+Allergic Rhinitis,"itchy eyes, poor appetite, nasal congestion, sneezing, runny nose, joint stiffness",mild,elderly,self-care
+Dandruff,"itchy scalp, irritation, flaky skin, scalp dryness",mild,elderly,self-care
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",mild,adult,consult doctor
+Mild GERD,"dry cough, mild fever, heartburn, acid reflux, chest discomfort",mild,elderly,self-care
+Eczema,"rash, red patches, itchy skin",moderate,adult,self-care
+Constipation,"bloating, hard stools, infrequent stools, abdominal discomfort",moderate,adult,self-care
+Mild Depression,"poor concentration, low mood, fatigue, dryness, loss of interest",moderate,elderly,self-care
+Plantar Fasciitis,"tenderness, pain with walking, heel pain, foot stiffness, irritation",mild,child,self-care
+Acne Vulgaris,"pimples, blackheads, whiteheads, sneezing, oily skin",mild,adult,consult doctor
+Otitis Externa,"discharge, hearing loss, fatigue, itchy ear canal, sneezing, ear pain",mild,child,self-care
+Dandruff,"dry cough, flaky skin, mild fever, scalp dryness, itchy scalp",moderate,elderly,self-care
+Mild Depression,"irritation, fatigue, poor concentration, low mood",mild,elderly,self-care
+Eczema,"rash, red patches, itchy skin",moderate,elderly,self-care
+Eczema,"rash, red patches, itchy skin",mild,child,self-care
+Acne Vulgaris,"mild fever, pimples, blackheads, whiteheads, sneezing, oily skin",mild,adult,consult doctor
+Acne Vulgaris,"whiteheads, blackheads, pimples, oily skin",moderate,adolescent,consult doctor
+Eczema,"dry skin, rash, red patches, itchy skin",mild,child,self-care
+Tension Headache,"scalp tenderness, muscle tension, fatigue, neck stiffness, headache",mild,adult,self-care
+Acne Vulgaris,"mild fever, pimples, blackheads, oily skin, irritation",moderate,elderly,self-care
+Gastritis (Non-Erosive),"fatigue, nausea, sneezing, indigestion, bloating, upper abdominal pain",moderate,adolescent,consult doctor
+Eczema,"dry skin, poor appetite, itchy skin, rash, red patches",moderate,child,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, mild discharge, itching",moderate,adult,self-care
+Acne Vulgaris,"pimples, blackheads, whiteheads, sneezing, dryness, oily skin",moderate,elderly,consult doctor
+Conjunctivitis (Viral),"watery eyes, itching, mild discharge",moderate,adult,self-care
+Tension Headache,"headache, fatigue, dryness, neck stiffness",mild,adolescent,consult doctor
+Mild Depression,"poor concentration, low mood, fatigue, dryness, loss of interest",moderate,elderly,consult doctor
+Allergic Rhinitis,"sneezing, nasal congestion, itchy eyes, mild fever",mild,adult,self-care
+Mild GERD,"dryness, heartburn, acid reflux, chest discomfort, sore throat, irritation",mild,adolescent,consult doctor
+Plantar Fasciitis,"dry cough, fatigue, pain with walking, heel pain, foot stiffness, tenderness",moderate,child,self-care
+Plantar Fasciitis,"pain with walking, dryness, heel pain, foot stiffness, tenderness",mild,elderly,consult doctor
+Mild Depression,"loss of interest, fatigue, poor concentration, low mood",mild,child,self-care
+Acne Vulgaris,"whiteheads, pimples, oily skin",moderate,child,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, abdominal pain",mild,adolescent,self-care
+Plantar Fasciitis,"heel pain, pain with walking, tenderness",mild,elderly,self-care
+Tinea Corporis (Ringworm),"red patches, circular rash, itching",mild,adult,self-care
+Tinea Corporis (Ringworm),"red patches, scaling, itching, circular rash, irritation",moderate,adult,self-care
+Dandruff,"flaky skin, poor appetite, scalp dryness, itchy scalp, redness",moderate,elderly,consult doctor
+Irritable Bowel Syndrome,"diarrhea, bloating, constipation",moderate,adult,consult doctor
+Mild Depression,"fatigue, poor concentration, poor appetite, low mood",moderate,elderly,consult doctor
+Tinea Corporis (Ringworm),"circular rash, scaling, red patches, itchy skin",mild,adult,consult doctor
+Constipation,"bloating, hard stools, infrequent stools, poor appetite",moderate,adult,self-care
+Tension Headache,"scalp tenderness, muscle tension, mild fever, fatigue, neck stiffness",moderate,adolescent,self-care
+Mild GERD,"heartburn, chest discomfort, sore throat, acid reflux",moderate,adult,self-care
+Mild Depression,"fatigue, poor concentration, mild fever, low mood",mild,adult,consult doctor
+Conjunctivitis (Viral),"red eyes, watery eyes, mild discharge",moderate,adolescent,self-care
+Gastritis (Non-Erosive),"muscle tension, nausea, sneezing, indigestion, upper abdominal pain",moderate,adult,consult doctor
+Constipation,"abdominal discomfort, hard stools, infrequent stools",moderate,adolescent,consult doctor
+Otitis Externa,"discharge, hearing loss, mild fever, fatigue, itchy ear canal, ear pain",moderate,child,self-care
+Otitis Externa,"discharge, itchy ear canal, ear pain",mild,adolescent,consult doctor
