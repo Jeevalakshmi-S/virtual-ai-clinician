@@ -227,7 +227,6 @@ Monitor symptoms for 3-5 days. Seek medical attention if symptoms worsen.
       try {
         await navigator.share(shareData)
       } catch (err) {
-        console.log("Error sharing:", err)
         // Fallback to clipboard
         navigator.clipboard.writeText(`${shareData.title}\n${shareData.text}\n${shareData.url}`)
         alert("Report details copied to clipboard!")

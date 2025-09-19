@@ -1,30 +1,67 @@
 # Virtual AI Clinician
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sjeevslakshmi-9102s-projects/v0-virtual-ai-clinician)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/qy6AZeisiZg)
+An intelligent AI-powered healthcare consultation platform that provides personalized medical assessments, treatment recommendations, and wellness plans.
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Virtual AI Clinician is a comprehensive healthcare application that uses artificial intelligence to analyze symptoms, provide medical insights, and offer personalized treatment plans including medicine recommendations and fitness guidance.
 
-## Deployment
+## Features
 
-Your project is live at:
+- **AI-Powered Consultations**: Interactive symptom analysis with intelligent questioning
+- **Voice Integration**: Automatic speech synthesis for seamless communication
+- **Comprehensive Reports**: Detailed diagnosis, medicine, and fitness recommendations
+- **User Authentication**: Secure login and registration system
+- **Responsive Design**: Optimized for desktop and mobile devices
+- **Professional Interface**: Clean, medical-grade user experience
 
-**[https://vercel.com/sjeevslakshmi-9102s-projects/v0-virtual-ai-clinician](https://vercel.com/sjeevslakshmi-9102s-projects/v0-virtual-ai-clinician)**
+## Getting Started
 
-## Build your app
+### Prerequisites
 
-Continue building your app on:
+- Node.js 18+ 
+- npm or yarn package manager
 
-**[https://v0.app/chat/projects/qy6AZeisiZg](https://v0.app/chat/projects/qy6AZeisiZg)**
+### Installation
 
-## How It Works
+1. Clone the repository:
+\`\`\`bash
+git clone https://github.com/your-username/virtual-ai-clinician.git
+cd virtual-ai-clinician
+\`\`\`
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+2. Install dependencies:
+\`\`\`bash
+npm install
+\`\`\`
+
+3. Run the development server:
+\`\`\`bash
+npm run dev
+\`\`\`
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## Technology Stack
+
+- **Frontend**: Next.js 14, React, TypeScript
+- **Styling**: Tailwind CSS, shadcn/ui components
+- **Authentication**: Secure user management
+- **Voice**: Web Speech API integration
+- **Deployment**: Vercel-ready configuration
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Disclaimer
+
+This application is for educational and informational purposes only. It is not intended to replace professional medical advice, diagnosis, or treatment. Always seek the advice of qualified healthcare providers with any questions regarding medical conditions.

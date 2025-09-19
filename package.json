@@ -1,7 +1,8 @@
 {
-  "name": "my-v0-project",
-  "version": "0.1.0",
+  "name": "virtual-ai-clinician",
+  "version": "1.0.0",
   "private": true,
+  "description": "AI-powered healthcare consultation platform",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
