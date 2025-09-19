@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description:
     "AI-powered healthcare consultation platform providing personalized medical assessments and treatment recommendations",
   keywords: "AI healthcare, medical consultation, symptom analysis, telemedicine",
-  generator: "v0.app",
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
