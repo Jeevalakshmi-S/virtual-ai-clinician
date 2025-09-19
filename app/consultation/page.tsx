@@ -195,9 +195,18 @@ export default function ConsultationPage() {
   const [isListening, setIsListening] = useState(false)
   const [isSpeaking, setIsSpeaking] = useState(false)
   const [isTyping, setIsTyping] = useState(false)
+  const [showExamples, setShowExamples] = useState(true)
   const messagesEndRef = useRef<HTMLDivElement>(null)
   const { toast } = useToast()
   const router = useRouter()
+
+  const exampleSymptoms = [
+    "Runny nose, sore throat",
+    "Itchy eyes, sneezing",
+    "Diarrhea, stomach cramps",
+    "Head pressure, tightness",
+    "Red, itchy skin patch",
+  ]
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
@@ -237,6 +246,10 @@ export default function ConsultationPage() {
     if (isSpeaking) {
       window.speechSynthesis.cancel()
       setIsSpeaking(false)
+    }
+
+    if (showExamples) {
+      setShowExamples(false)
     }
 
     const userMessage: Message = {
@@ -349,6 +362,11 @@ Thank you for using our AI consultation service. Take care of your health! 🌟`
     }
   }
 
+  const handleExampleClick = (example: string) => {
+    setInputMessage(example)
+    setShowExamples(false)
+  }
+
   const progressPercentage = ((currentStep + 1) / consultationSteps.length) * 100
 
   return (
@@ -433,6 +451,24 @@ Thank you for using our AI consultation service. Take care of your health! 🌟`
               <CardContent className="flex-1 p-0 flex flex-col">
                 {/* Messages */}
                 <div className="flex-1 overflow-y-auto p-6 space-y-4">
+                  {showExamples && questionCount === 0 && (
+                    <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-4">
+                      <h4 className="text-sm font-medium text-blue-900 mb-3">Example symptoms you can describe:</h4>
+                      <div className="grid grid-cols-1 gap-2">
+                        {exampleSymptoms.map((example, index) => (
+                          <button
+                            key={index}
+                            onClick={() => handleExampleClick(example)}
+                            className="text-left text-sm text-blue-700 hover:text-blue-900 hover:bg-blue-100 p-2 rounded transition-colors"
+                          >
+                            {index + 1}. {example}
+                          </button>
+                        ))}
+                      </div>
+                      <p className="text-xs text-blue-600 mt-2">Click on any example or describe your own symptoms</p>
+                    </div>
+                  )}
+
                   {messages.map((message) => (
                     <div
                       key={message.id}
