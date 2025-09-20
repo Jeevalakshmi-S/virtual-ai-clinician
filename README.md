@@ -1,3 +1,4 @@
+
 Virtual AI Clinician – Generative AI for Accurate Medical Diagnosis
 Project Overview
 Virtual AI Clinician is a scalable, AI-powered medical consultation system that leverages Large Language Models (LLMs) to simulate real doctor-patient interactions.
