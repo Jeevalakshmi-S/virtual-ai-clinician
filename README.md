@@ -30,11 +30,17 @@ PDF generation for consultation reports
 ✨ Key Features
 
 ✅ AI-powered Consultation: Natural conversation flow for symptom analysis and guidance
+
 ✅ Clinical Reasoning: Combines LLMs with medical guidelines to ensure safe recommendations
+
 ✅ Human-like Avatar Interface: Enhances trust and engagement during consultations
+
 ✅ Multilingual Support: Accessible for users across different languages
+
 ✅ Consultation History: Downloadable PDF reports of interactions for personal records
+
 ✅ Emergency Detection: Identifies red-flag symptoms and recommends urgent care
+
 ✅ Symptom Tracker: Logs daily health updates for longitudinal monitoring
 
 🧬 System Architecture
